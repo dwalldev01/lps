@@ -1,0 +1,481 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LPS\n"
+"POT-Creation-Date: 2018-06-11 17:12+0530\n"
+"PO-Revision-Date: 2018-06-11 17:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: Dwall India\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:7 404.php:10
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:9 archive-events.php:24 archive-news.php:10
+#: archive-newsletter.php:10 archive-scheduled_course.php:9
+#: archive-trainers.php:23 page-aboutus.php:91 page-account.php:20
+#: page-contactus.php:12 page-event-calender.php:12 page-gallery.php:14
+#: page-group_registration.php:19 page-individual_registration.php:19
+#: page-register.php:12 page-traininggallery.php:14 page.php:24
+#: single-articles.php:28 single-course.php:28 single-events.php:24
+#: single-news.php:10 single-newsletter.php:10 single-trainers.php:24
+#: single.php:24 taxonomy-course_category.php:18
+#: taxonomy-course_category.php:126 taxonomy-gallery_category.php:11
+#: taxonomy-newsletter_category.php:10
+msgid "Home"
+msgstr ""
+
+#: 404.php:25
+msgid "You are looking for something that is not available here."
+msgstr ""
+
+#: archive-events.php:22 archive-events.php:43 sidebar-news-events.php:64
+msgid "Upcoming Events"
+msgstr ""
+
+#: archive-news.php:29 sidebar-news-events.php:6 single-news.php:8
+msgid "Latest News"
+msgstr ""
+
+#: archive-newsletter.php:26
+msgid "Newsletter"
+msgstr ""
+
+#: archive-newsletter.php:67
+msgid "No Categories Found"
+msgstr ""
+
+#: archive-scheduled_course.php:55 sidebar-news-events.php:92
+msgid " to "
+msgstr ""
+
+#: archive-scheduled_course.php:66
+msgid "Learn More"
+msgstr ""
+
+#: archive-scheduled_course.php:74
+msgid "Group"
+msgstr ""
+
+#: archive-scheduled_course.php:76
+msgid "Individual"
+msgstr ""
+
+#: archive-scheduled_course.php:82
+msgid "Reg. Close"
+msgstr ""
+
+#: archive-scheduled_course.php:84
+msgid "Send to Friend"
+msgstr ""
+
+#: archive-scheduled_course.php:97
+msgid "Full Payment for individual"
+msgstr ""
+
+#: archive-scheduled_course.php:98
+msgid "3 person discount"
+msgstr ""
+
+#: archive-scheduled_course.php:99
+msgid "9 person discount"
+msgstr ""
+
+#: archive-scheduled_course.php:101
+msgid "Maximum Participant"
+msgstr ""
+
+#: archive-scheduled_course.php:103
+msgid "Registered Participants"
+msgstr ""
+
+#: archive-scheduled_course.php:105
+msgid "Available Seats"
+msgstr ""
+
+#: archive-scheduled_course.php:111 sidebar-group_review.php:69
+#: sidebar-individual_review.php:54 sidebar-individual_review.php:131
+msgid " "
+msgstr ""
+
+#: archive-scheduled_course.php:112 archive-scheduled_course.php:113
+#: includes/ajax-functions.php:407
+msgid "%"
+msgstr ""
+
+#: archive-trainers.php:21 archive-trainers.php:38 single-trainers.php:22
+#: single-trainers.php:25
+msgid "Trainers Profile"
+msgstr ""
+
+#: calender_events.php:72
+msgid "{\"monthly\":"
+msgstr ""
+
+#: functions.php:326
+msgid "Email ID"
+msgstr ""
+
+#: functions.php:327
+msgid "Mobile No"
+msgstr ""
+
+#: functions.php:328
+msgid "Total Fees"
+msgstr ""
+
+#: functions.php:329
+msgid "Course Category"
+msgstr ""
+
+#: functions.php:330
+msgid "Course Name"
+msgstr ""
+
+#: functions.php:331
+msgid "Payment Status"
+msgstr ""
+
+#: header.php:146 header.php:220 header.php:222 header.php:224 header.php:236
+#: page-group_registration.php:45 page-individual_registration.php:45
+#: sidebar-account.php:4 sidebar-account.php:6 sidebar-account.php:8
+#: sidebar-popup.php:15 sidebar-popup.php:16
+msgid "javascript:void();"
+msgstr ""
+
+#: header.php:146 header.php:236 sidebar-popup.php:16
+msgid "Register"
+msgstr ""
+
+#: header.php:148
+msgid "Sign In"
+msgstr ""
+
+#: header.php:220 sidebar-account.php:4
+msgid "Edit Account"
+msgstr ""
+
+#: header.php:222 sidebar-account.php:6
+msgid "#wppb-form-element-7"
+msgstr ""
+
+#: header.php:222 sidebar-account.php:6
+msgid "Change Password"
+msgstr ""
+
+#: header.php:224 sidebar-account.php:8
+msgid "User history"
+msgstr ""
+
+#: header.php:227 sidebar-account.php:11
+msgid "Logout"
+msgstr ""
+
+#: includes/admin-functions.php:25
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin-functions.php:34
+msgid "Contact Number"
+msgstr ""
+
+#: includes/admin-functions.php:45
+msgid "Top Mobile Text"
+msgstr ""
+
+#: includes/admin-functions.php:56
+msgid "Company Registration Number"
+msgstr ""
+
+#: includes/admin-functions.php:67 includes/admin-functions.php:438
+msgid "Tax Registration Number"
+msgstr ""
+
+#: includes/admin-functions.php:78
+msgid "Footer Contact Number"
+msgstr ""
+
+#: includes/admin-functions.php:89
+msgid "Admin Contact Email ID"
+msgstr ""
+
+#: includes/admin-functions.php:101
+msgid "Invoice Contact No"
+msgstr ""
+
+#: includes/admin-functions.php:113
+msgid "Invoice Email ID"
+msgstr ""
+
+#: includes/admin-functions.php:125
+msgid "Website for Invoice"
+msgstr ""
+
+#: includes/admin-functions.php:137
+msgid "Contact Page Address"
+msgstr ""
+
+#: includes/admin-functions.php:151
+msgid "Footer About Us"
+msgstr ""
+
+#: includes/admin-functions.php:163
+msgid "Footer Copyright Message"
+msgstr ""
+
+#: includes/admin-functions.php:175
+msgid "Google Analytics Code"
+msgstr ""
+
+#: includes/admin-functions.php:187
+msgid "Banner Start a Course Link"
+msgstr ""
+
+#: includes/admin-functions.php:200
+msgid "Set Contact Page"
+msgstr ""
+
+#: includes/admin-functions.php:218
+msgid "Set Registration Page"
+msgstr ""
+
+#: includes/admin-functions.php:236
+msgid "Set Edit Account Page"
+msgstr ""
+
+#: includes/admin-functions.php:253
+msgid "Set Reset Password Page"
+msgstr ""
+
+#: includes/admin-functions.php:270
+msgid "Set User History Page"
+msgstr ""
+
+#: includes/admin-functions.php:287
+msgid "Set Individual Enrol Page"
+msgstr ""
+
+#: includes/admin-functions.php:301
+msgid "Set Group Enrol Page"
+msgstr ""
+
+#: includes/admin-functions.php:318
+msgid "Set Paypal Success Page"
+msgstr ""
+
+#: includes/admin-functions.php:335
+msgid "Set Paypal Cancel Page"
+msgstr ""
+
+#: includes/admin-functions.php:352
+msgid "No. of Max Partcipants in Group Registration"
+msgstr ""
+
+#: includes/admin-functions.php:365
+msgid "No. of Max Module in Course"
+msgstr ""
+
+#: includes/admin-functions.php:377
+msgid "Home Video Gallery Category ID"
+msgstr ""
+
+#: includes/admin-functions.php:389
+msgid "Training Gallery Category ID"
+msgstr ""
+
+#: includes/admin-functions.php:402
+msgid "Singapore Tax (%)"
+msgstr ""
+
+#: includes/admin-functions.php:414
+msgid "Payment Currency (like $,€,£ etc)"
+msgstr ""
+
+#: includes/admin-functions.php:426
+msgid "Company Registration No."
+msgstr ""
+
+#: includes/admin-functions.php:457
+msgid "Social Network Links"
+msgstr ""
+
+#: includes/admin-functions.php:468
+msgid "Facebook Link"
+msgstr ""
+
+#: includes/admin-functions.php:480
+msgid "Instagram Link"
+msgstr ""
+
+#: includes/admin-functions.php:493
+msgid "Twitter Link"
+msgstr ""
+
+#: includes/admin-functions.php:509
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/admin-functions.php:521
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/admin-functions.php:550
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin-reports.php:216
+msgid "?page=lps-reports&action=download_invoice&invoiceid="
+msgstr ""
+
+#: includes/admin-reports.php:305
+msgid "?page=lps_receipt&action=download_receipt&receiptid="
+msgstr ""
+
+#: includes/meta_box_functions.php:644 includes/meta_box_functions.php:656
+msgid ")</a><br>"
+msgstr ""
+
+#: includes/meta_box_functions.php:645 includes/meta_box_functions.php:657
+msgid ") </a><br>"
+msgstr ""
+
+#: includes/meta_box_functions.php:745
+msgid "Workshop Objectives : "
+msgstr ""
+
+#: includes/meta_box_functions.php:750
+msgid "Total No of Module : "
+msgstr ""
+
+#: includes/meta_box_functions.php:780
+msgid "Module Title "
+msgstr ""
+
+#: includes/meta_box_functions.php:786
+msgid "Course Module "
+msgstr ""
+
+#: includes/users-invoice-receipt.php:113
+msgid "Invoice"
+msgstr ""
+
+#: includes/users-invoice-receipt.php:306
+msgid "Receipt"
+msgstr ""
+
+#: includes/widget-functions.php:136
+msgid "Title "
+msgstr ""
+
+#: includes/widget-functions.php:138
+msgid "Featured Course Categories ID"
+msgstr ""
+
+#: js/jquery-ui.min.js:3383 js/jquery-ui.min.js:3410
+msgid "'"
+msgstr ""
+
+#: page-contactus.php:33
+msgid "Phone"
+msgstr ""
+
+#: page-contactus.php:40
+msgid "Address"
+msgstr ""
+
+#: page-contactus.php:47
+msgid "E-mail"
+msgstr ""
+
+#: page-event-calender.php:26
+msgid "Events"
+msgstr ""
+
+#: page-event-calender.php:26
+msgid "Schedule Course"
+msgstr ""
+
+#: page-register.php:30
+msgid ""
+"<div class=\"alert alert-danger alert-dismissible\">\n"
+"\t\t\t\t  <a href=\"#\" class=\"close\" data-dismiss=\"alert\" aria-label="
+"\"close\">&times;</a>\n"
+"\t\t\t\t  <strong> ERROR :</strong>"
+msgstr ""
+
+#: sidebar-articles.php:26
+msgid " in "
+msgstr ""
+
+#: sidebar-articles.php:51
+msgid " active "
+msgstr ""
+
+#: sidebar-banner.php:63
+msgid "Start a Course"
+msgstr ""
+
+#: sidebar-group_review.php:3 sidebar-individual_review.php:3
+msgid "Review Information"
+msgstr ""
+
+#: sidebar-home-brand.php:3
+msgid "Clients"
+msgstr ""
+
+#: sidebar-home-trainers.php:4
+msgid "Our Skilled Trainers"
+msgstr ""
+
+#: sidebar-home_video.php:4
+msgid "Company Videos"
+msgstr ""
+
+#: sidebar-news-events.php:57 sidebar-news-events.php:120
+msgid "View All"
+msgstr ""
+
+#: sidebar-news-events.php:89
+msgid "&nbsp;to&nbsp;"
+msgstr ""
+
+#: sidebar-popup.php:13
+msgid "Sign in"
+msgstr ""
+
+#: sidebar-popup.php:16
+msgid "Lost your password?"
+msgstr ""
+
+#: sidebar-services.php:4
+msgid "Future Trainings"
+msgstr ""
+
+#: single-course.php:64 taxonomy-course_category.php:167
+msgid "Workshop Objectives:"
+msgstr ""
+
+#: single-course.php:93 taxonomy-course_category.php:196
+msgid "Module"
+msgstr ""
+
+#: taxonomy-course_category.php:96
+msgid "<div class=\"container\">No Course Category Found.</div>"
+msgstr ""
+
+#: taxonomy-gallery_category.php:78
+msgid "No Gallery item found."
+msgstr ""
+
+#: taxonomy-newsletter_category.php:26
+msgid "Newsletter in "
+msgstr ""

@@ -1,0 +1,46 @@
+.ac {
+	margin-top: 10px;
+	border: 1px solid #ddd;
+	background-color: #fff;
+}
+.ac > .ac-q {
+	color: #0b284b;
+	cursor: pointer;
+	display: block;
+	font-weight: 400;
+	font-size: 19px;
+	outline: 0 none;
+	padding: 10px 30px 10px 10px;
+	position: relative;
+	text-decoration: none;
+}
+.ac > .ac-q span {
+	color: #ed1c27
+}
+.ac > .ac-q::after {
+	content: "+";
+	text-align: center;
+	width: 15px;
+	right: 10px;
+	top: 50%;
+	transform: translate(0, -50%);
+	position: absolute;
+}
+.ac > .ac-a {
+	overflow: hidden;
+	-webkit-transition-property: all;
+	-webkit-transition-timing-function: ease;
+	transition-property: all;
+	transition-timing-function: ease;
+}
+.ac > .ac-a p {
+	color: #444;
+	font-size: 15px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 10px;
+	text-align: justify;
+}
+.ac.active > .ac-q::after {
+	content: "\2013";
+}
