@@ -13,7 +13,7 @@
     setTimeout(function () {
         location.reload()
     }, 100);
-}</script>        <!-- Header Area End Here -->
+}</script>          <!-- Header Area End Here -->
         <!-- Inner Page Banner Area Start Here -->
         <div class="inner-page-banner-area1">
             <div class="container">
