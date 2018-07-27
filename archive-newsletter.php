@@ -23,7 +23,7 @@
         <div class="certificate-area" style="background-color:#f3f3f3">
             
             
-             <h2 class="title-default-left"><?php _e("Newsletter"); ?></h2>			 
+             <h2 class="title-default-left"><?php _e("Newsletters"); ?></h2>			 
 			       <?php while ( have_posts() ) : the_post();
 		?>          
              
