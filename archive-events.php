@@ -19,7 +19,7 @@
          <div class="inner-page-banner-area1">
             <div class="container">
                 <div class="pagination-area">
-                    <h1><?php _e("Upcoming Events"); ?></h1>
+                    <h1><?php _e("Upcoming Events are waiting for your response."); ?></h1>
                     <ul>
                         <li><a href="<?php _e(get_option('siteurl')); ?>"><?php _e("Home"); ?></a> - </li>					  
 						<li><?php post_type_archive_title(); ?></li>
