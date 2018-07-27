@@ -7,7 +7,7 @@
                     <h1><?php _e("Not Found"); ?></h1>
                     <ul>
 						<li><a href="<?php _e(get_option('siteurl')); ?>"><?php _e("Home"); ?></a> - </li>
-						<li><?php _e("Not Found"); ?></li>
+						<li><?php _e("Not Found Page"); ?></li>
                     </ul>
                 </div>
             </div>
